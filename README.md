@@ -28,7 +28,7 @@ chmod +x secure-vps-upgrade-safe.sh
 sudo ./secure-vps-upgrade-safe.sh
 
 
-Follow Interactive Prompts
+### Follow Interactive Prompts
 The script will guide you through:
 Admin Username: Enter a username (skips if it exists).
 SSH Keys: 

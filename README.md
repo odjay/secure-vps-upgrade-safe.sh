@@ -21,7 +21,7 @@ This repository contains a Bash script (`secure-vps-upgrade-safe.sh`) to set up 
 ### 1. Clone the Repository
 Download the script to your VPS:
 ```bash
-git clone https://github.com/yourusername/secure-vps-setup.git
+git clone https://github.com/odjay/secure-vps-setup.git
 cd secure-vps-setup
 
 chmod +x secure-vps-upgrade-safe.sh
